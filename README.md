@@ -1,1 +1,3 @@
-eg-default-template
+# install in current directory
+
+### clone and run ``` npm i ```
